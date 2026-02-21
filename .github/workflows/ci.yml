@@ -64,3 +64,4 @@ jobs:
           sleep 5 
           uv run poe test
           kill $SERVER_PID
+          
